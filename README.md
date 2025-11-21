@@ -39,6 +39,9 @@ The system consists of:
 └────────────────┘                              └────────────────────┘
 ```
 
+<img width="2048" height="607" alt="image" src="https://github.com/user-attachments/assets/9203f841-0f99-4d01-a80f-a5a88be061c7" />
+
+
 ---
 
 # 🛰️ 1. Web Push Fundamentals
@@ -218,6 +221,9 @@ This notification architecture is designed for:
 - Fast lookups via hash map
 - Professional maintainability
 - Scalable notification delivery
+
+<img width="1722" height="863" alt="image" src="https://github.com/user-attachments/assets/d97adf77-8267-463b-9d9b-69b78d446887" />
+
 
 Your system now ensures that **each device only receives notifications belonging to the last logged‑in user**, preventing cross-account issues and keeping delivery accurate.
 
